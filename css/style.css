@@ -3,10 +3,10 @@ body {background-color: black;
     font-family: "Bebas Neue",  serif;
     text-align: center;
     font-size:xx-large;
-    padding: 25vh;;
+    padding: 10vh;;
 }
 
-h2 {padding-top: 75vh;}
+h2 {padding-top: 50vh;}
 
-span {padding-left: 125vw;
-    padding-right: 50vw;}
+span {padding-left: 75vw;
+    padding-right: 25vw;}
