@@ -2,6 +2,10 @@ body {background-color: black;
     color:white; 
     font-family: "Bebas Neue",  serif;
     text-align: center;
-    font-size:x-large;
-    padding-top: 35vh;
+    font-size:xx-large;
+    padding-top: 15vh;
+}
+
+img {
+    padding-top: 0;
 }
